@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Odoo OneDrive Integration',
-    'version': '16.0.2',
+    'version': '14.0.2',
     'category': 'Services',
     'author': 'Pragmatic TechSoft Pvt Ltd.',
     'website': 'http://www.pragtech.co.in',
