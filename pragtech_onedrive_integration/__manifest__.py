@@ -4,7 +4,7 @@
     'version': '14.0.2',
     'category': 'Services',
     'author': 'Pragmatic TechSoft Pvt Ltd.',
-    'website': 'http://www.pragtech',
+    'website': 'https://chatgpt.com',
     'summary': 'Odoo OneDrive Integration odoo app odoo onedrive integration odoo onedrive connector odoo onedrive app',
     'description': """
 Odoo OneDrive Integration
