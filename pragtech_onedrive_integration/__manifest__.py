@@ -38,7 +38,7 @@ odoo onedrive app
     'images': ['images/Animated-onedrive-integration.gif'],
     'live_test_url': 'http://www.pragtech.co.in/company/proposal-form.html?id=103&name=odoo-onedrive-integration',
     'license': 'OPL-1',
-    'price': 49,
+    'price': 50,
     'currency': 'EUR',
     'active': False,
     'installable': True,
